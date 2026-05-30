@@ -1,0 +1,11 @@
+# Ignore the virtual env
+venv/
+
+# Ignore cache
+__pycache__/
+
+# Ignore the local database file
+portfolio.db
+
+# Ignore env variables
+.env
