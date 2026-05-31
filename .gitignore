@@ -4,7 +4,7 @@ venv/
 # Ignore cache
 __pycache__/
 
-# Ignore the local database file
+# Ignore the local db
 portfolio.db
 
 # Ignore env variables
